@@ -18,3 +18,5 @@ To enable educators and content creators to monetize their courses in a transpar
 
 ## 5. Contract Address
 `<To be added after deployment on Stacks blockchain>`
+
+<img width="1920" height="1020" alt="STX Transaction - 0xe5c12…5a868 - Google Chrome 12-08-2025 14_52_24" src="https://github.com/user-attachments/assets/2cf11100-6c11-4da2-ad8c-5fe3e606e320" />
